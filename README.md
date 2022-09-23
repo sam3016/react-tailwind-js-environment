@@ -4,7 +4,6 @@ react-tailwind-js-environment template based on js-environment(https://github.co
 
 I have initialized this template using react and tailwind css.
 
-You could create your UI component using this template.
+You could create your UI component using this template and implement to FileMaker easily.
 
 Hope it helps.
- 
